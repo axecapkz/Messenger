@@ -32,7 +32,7 @@ To run this project locally on your Mac:
 4. **Install CocoaPods dependencies**:
 
    ```bash
-pod install
+   pod install
 
 
 5. **Run the project**:
